@@ -19,3 +19,4 @@ timezone: 'Europe/Berlin'
 plugins:
   - jekyll-redirect-from
   - rouge
+  - jekyll-seo-tag
